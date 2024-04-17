@@ -2,6 +2,6 @@
 
 Made with C#
 
-this programmer disables tasmgr and Windows Defender by registry information changing.
+this program disables tasmgr and Windows Defender by registry information changing.
 
 as the user's setting this program might need a permission to get runned
